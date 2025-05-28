@@ -1,0 +1,30 @@
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# Spring Boot
+target/
+*.iml
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven
+/logs
+*.mvn
+.mvn/

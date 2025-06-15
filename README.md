@@ -69,7 +69,7 @@ Essa estrutura busca aplicar conhecimentos adquiridos na faculdade e no estágio
 
 ### Principais Entidades:
 
-- **Input**: insumos com preço e unidade
+- **Supply**: insumos com preço e unidade
 - **Recipe**: receitas com ingredientes e quantidades
 - **Product**: produto final formado por receitas
 
